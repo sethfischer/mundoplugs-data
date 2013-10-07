@@ -1,0 +1,31 @@
+anz10a:
+    name: Australia/New Zealand 10A socket-outlet
+    abbr: ANZ10A
+    v_rated: 240
+    i_rated: 10
+    dept_com_type: I
+    plugs:
+        - anz10a2
+        - anz10a3
+
+iec125v:
+    name: IEC 125V 15A socket-outlet
+    abbr: IEC125V
+    v_rated: 125
+    i_rated: 15
+    dept_com_type: B
+    plugs:
+        - iec125v2rev
+        - iec125v2
+        - iec125v3
+
+cee-7-1:
+    name: European two-pole socket-outlet without earth
+    abbr: CEE 7/1
+    v_rated: 250
+    i_rated: 10
+    dept_com_type: C
+    plugs:
+        - cee-7-2
+        - cee-7-16
+

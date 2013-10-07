@@ -1,0 +1,42 @@
+anz10a2:
+    name: Australia/New Zealand two-pole plug
+    abbr: ANZ10A2
+    v_rated: 240
+    i_rated: 10
+
+anz10a3:
+    name: Australia/New Zealand two-pole plug with earth
+    abbr: ANZ10A3
+    v_rated: 240
+    i_rated: 10
+
+cee-7-16:
+    name: European 2.5A two-pole plug
+    abbr: CEE 7/16
+    v_rated: 250
+    i_rated: 2.5
+
+cee-7-2:
+    name: European 10A two-pole plug
+    abbr: CEE 5/2
+    v_rated: 250
+    i_rated: 10
+
+iec125v2rev:
+    name: IEC 125V two-pole plug (reversible)
+    abbr: IEC125V2rev
+    v_rated: 125
+    i_rated: 15
+
+iec125v2:
+    name: IEC 125V two-pole plug
+    abbr: IEC125V2
+    v_rated: 125
+    i_rated: 15
+
+iec125v3:
+    name: IEC 125V two-pole plug with earth
+    abbr: IEC125V3
+    v_rated: 125
+    i_rated: 15
+

@@ -1,0 +1,48 @@
+AUS:
+    alpha2: AU
+    name: Australia
+    supplies:
+        - NATIONAL:
+            v: 230
+            f: 50
+            sockets:
+                - anz10a
+
+JPN:
+    alpha2: JP
+    name: Japan
+    supplies:
+        - NATIONAL:
+            sockets:
+                - iec125v
+        - Eastern Japan:
+            v: 100
+            f: 50
+        - Western Japan:
+            v: 100
+            f: 60
+
+NZL:
+    alpha2: NZ
+    name: New Zealand
+    supplies:
+        - NATIONAL:
+            v: 230
+            f: 50
+            sockets:
+                - anz10a
+
+VNM:
+    alpha2: VN
+    name: Viet Nam
+    supplies:
+        - NATIONAL:
+            v: 220
+            f: 50
+        - Southern Viet Nam:
+            sockets:
+                - iec125v
+        - Northern Viet Nam:
+            sockets:
+                - cee-7-1
+
